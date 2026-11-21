@@ -285,14 +285,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-@inproceedings{bhujel2026trace,
-  title         = {Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning},
-  author        = {Bhujel, Sudip and Shi, Shanghao and Huang, Ruiquan and Zhang, Ning and Xiao, Yang},
-  booktitle     = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year          = {2026},
-  eprint        = {2609.30258},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.LG},
-  url           = {https://trace-rl.github.io/}
+@inproceedings{bhujel2026temporal,
+  title     = {Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning},
+  author    = {Bhujel, Sudip and Shi, Shanghao and Huang, Ruiquan and Zhang, Ning and Xiao, Yang},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {39},
+  year      = {2026}
 }
 ```
