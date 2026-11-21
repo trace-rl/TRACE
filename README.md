@@ -282,7 +282,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Citation
 
-If you use this code in your research, please cite the following paper:
+If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
 @inproceedings{bhujel2026temporal,
